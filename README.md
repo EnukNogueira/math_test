@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte do meu ciclo de estudos na Alura, focad
 
 ## O Projeto
 
-O script consiste em um sistema de testes de matemática que desafia o usuário e monitora seu desempenho. Mais do que um simples teste, a lógica foi construída para simular um fluxo de diagnóstico: o programa identifica a entrada, processa a operação e valida o resultado final.
+O código consiste em um sistema de testes de matemática que desafia o usuário e monitora seu desempenho. Mais do que um simples teste, a lógica foi construída para simular um fluxo de diagnóstico: o programa identifica a entrada, processa a operação e valida o resultado final.
 
 ### Principais Funcionalidades
 
@@ -16,8 +16,6 @@ O script consiste em um sistema de testes de matemática que desafia o usuário 
 ## Contexto de Desenvolvimento
 
 Este repositório é o resultado prático de um método de estudo ativo. Após as aulas teóricas e o aprofundamento técnico via documentação e ferramentas de IA (NotebookLM), este código serve como o "teste de carga" para garantir que os conceitos de Python foram realmente absorvidos.
-
-Uma analogia prática: assim como na manutenção industrial não basta ler o diagrama sem testar a continuidade do circuito, na programação o conhecimento só se consolida quando o código roda e resolve o problema proposto.
 
 ## Tecnologias Utilizadas
 
