@@ -1,0 +1,20 @@
+[
+    {
+        "nome do jogador": "Teste",
+        "conta": "33 + 39",
+        "Teste": 1,
+        "resposta_correta": 72
+    },
+    {
+        "nome do jogador": "Enuk",
+        "conta": "74 + 30",
+        "Enuk": 7,
+        "resposta_correta": 104
+    },
+    {
+        "nome do jogador": "Nuk",
+        "conta": "79 + 62",
+        "Nuk": 141,
+        "resposta_correta": 141
+    }
+]
