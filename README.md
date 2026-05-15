@@ -7,7 +7,9 @@ Este projeto foi desenvolvido como parte do meu ciclo de estudos na Alura, focad
 O código consiste em um sistema de testes de matemática que desafia o usuário e monitora seu desempenho. Mais do que um simples teste, a lógica foi construída para simular um fluxo de diagnóstico: o programa identifica a entrada, processa a operação e valida o resultado final.
 
 ##Proxima etapa
-Fazer o código imprimir um gráfico com os resultados dos usuários.
+Fazer o código imprimir um gráfico com os resultados dos usuários. (14/05/2026)✅
+Substituir o formato json por SQL
+Fazer uma IA para analisar os gráficos e os resultados e assim fazer um relatório.
 
 ### Principais Funcionalidades
 
