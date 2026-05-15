@@ -16,5 +16,59 @@
         "conta": "79 + 62",
         "Nuk": 141,
         "resposta_correta": 141
+    },
+    {
+        "nome do jogador": "Enuk",
+        "conta": "75 + 79",
+        "Enuk": 2,
+        "resposta_correta": 154
+    },
+    {
+        "nome do jogador": "Enuk",
+        "conta": "20 + 68",
+        "Enuk": 88,
+        "resposta_correta": 88
+    },
+    {
+        "nome do jogador": "Enuk",
+        "conta": "42 + 45",
+        "Enuk": 87,
+        "resposta_correta": 87
+    },
+    {
+        "nome do jogador": "Teste",
+        "conta": "34 + 79",
+        "Teste": 2,
+        "resposta_correta": 113
+    },
+    {
+        "nome do jogador": "Teste",
+        "conta": "95 + 30",
+        "Teste": 125,
+        "resposta_correta": 125
+    },
+    {
+        "nome do jogador": "Teste",
+        "conta": "35 + 92",
+        "Teste": 4,
+        "resposta_correta": 127
+    },
+    {
+        "nome do jogador": "Teste",
+        "conta": "9 + 39",
+        "Teste": 45,
+        "resposta_correta": 48
+    },
+    {
+        "nome do jogador": "Teste",
+        "conta": "67 + 82",
+        "Teste": 99,
+        "resposta_correta": 149
+    },
+    {
+        "nome do jogador": "Teste",
+        "conta": "55 + 53",
+        "Teste": 108,
+        "resposta_correta": 108
     }
 ]
